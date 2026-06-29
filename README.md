@@ -1,5 +1,5 @@
 # Hi there, I'm HIBA! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" />
-
+[<img align='right' src="https://media3.giphy.com/media/S9d8XB557e8phGLBVS/giphy.gif" width="230">]
 <p align="center">
   <a href="https://linkedin.com/in/your-linkedin" target="_blank">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" height="30" style="display:inline-block;" />
@@ -14,7 +14,7 @@
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
 - 🎓 I'm an **IT student** passionate about technology and problem-solving.
 - 💻 I’m learning and practicing: **C**, **Python**, **JavaScript**, and exploring **databases**.
-- 🌱 Currently interested in **algorithms, data structures, and cloud computing**.
+- 🌱 Currently interested in **algorithms and data structures**.
 - 🤝 I love collaborating on open-source projects and sharing knowledge.
 - ⚡ Fun fact: I enjoy mixing Arabic & English when coding notes ✨
 
@@ -40,9 +40,9 @@
 ---
 
 ### ☕ Support My Journey:
-If you like my work, maybe consider buying me a coffee/tea 🥺👉👈  
-<a href="https://www.buymeacoffee.com/your-link" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="150" ></a>
+If you like my work, maybe consider buying me a tea 👉👈  
+<img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="150" ></a>
 
 ---
 
-[<img align='right' src="https://media3.giphy.com/media/S9d8XB557e8phGLBVS/giphy.gif" width="230">]
+
