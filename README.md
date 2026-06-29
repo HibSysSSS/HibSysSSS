@@ -1,15 +1,13 @@
 # Hi there, I'm HIBA! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" />
 [<img align='right' src="https://media3.giphy.com/media/S9d8XB557e8phGLBVS/giphy.gif" width="230">]
 <p align="center">
-  <a href="https://linkedin.com/in/your-linkedin" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" height="30" style="display:inline-block;" />
-  </a>
+ 
   <a href="http://discord.com/users/your-discord" target="_blank">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/discord.svg" height="30" style="display:inline-block;" />
   </a>
 </p>
 
-![](https://media.giphy.com/media/SwOskN6DxTszqIKEqv/giphy.gif)
+!(https://media.giphy.com/media/SwOskN6DxTszqIKEqv/giphy.gif)
 
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
 - 🎓 I'm an **IT student** passionate about technology and problem-solving.
