@@ -6,7 +6,7 @@
   </a>
 </p>
 
-### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
+### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="47" /> About Me:
 - 🎓 I'm an **IT student** passionate about technology and problem-solving.
 - 💻 I’m learning and practicing: **C**, **Python**, **JavaScript**, and exploring **databases**.
 - 🌱 Currently interested in **algorithms and data structures**.
