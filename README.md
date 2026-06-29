@@ -1,5 +1,4 @@
-# Hi there, I'm HIBA!  
-<img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="50" />
+# Hi there, I'm HIBA! <img src="https://media.tenor.com/0CpFOKGVaeMAAAAm/hand-waving-hand.webp" width="50" />
 <img align='right' src="https://media3.giphy.com/media/S9d8XB557e8phGLBVS/giphy.gif" width="230">
 <p align="center">
   <a 
