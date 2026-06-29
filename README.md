@@ -35,7 +35,7 @@
 ---
 
 ### ☕ Support My Journey:
-If you like my work, maybe consider buying me a tea 👉👈  
+If you like my work, maybe consider buying me a tea! 🍵🌝👉👈  
 <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="150" ></a>
 
 ---
