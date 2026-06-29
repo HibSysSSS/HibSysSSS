@@ -1,7 +1,7 @@
 # Hi there, I'm HIBA! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" />
 <img align='right' src="https://media3.giphy.com/media/S9d8XB557e8phGLBVS/giphy.gif" width="230">
 <p align="center">
-  <a href="http://discord.com/users/your-discord" target="_blank">
+  <a 
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/discord.svg" height="30" style="display:inline-block;" />
   </a>
 </p>
@@ -17,7 +17,7 @@
 
 ### 🛠️ Languages and Tools:
 <p align="center">
-      <a href="https://skillicons.dev">
+      <a>
             <img src="https://skillicons.dev/icons?i=python,c,cpp,js,html,css,git,mysql" />
       </a>
 </p>
